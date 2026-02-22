@@ -1,4 +1,4 @@
-# Análisis de Accidentes de Tránsito en Panamá 🚗🇵🇦
+# Análisis de Accidentes de Tránsito en Panamá
 
 ## Descripción
 Análisis exploratorio de los accidentes de tránsito en Panamá utilizando datos oficiales 
